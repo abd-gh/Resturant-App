@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StiSerializer version="1.02" type="Net" application="StiReport">
+  <Dictionary Ref="1" type="Dictionary" isKey="true">
+    <BusinessObjects isList="true" count="2">
+      <FromDate Ref="2" type="Stimulsoft.Report.Dictionary.StiBusinessObject" isKey="true">
+        <Alias>FromDate</Alias>
+        <BusinessObjects isList="true" count="0" />
+        <Category />
+        <Columns isList="true" count="32">
+          <value>AutoSize,System.Boolean</value>
+          <value>AutoEllipsis,System.Boolean</value>
+          <value>BorderStyle,System.Windows.Forms.BorderStyle</value>
+          <value>FlatStyle,System.Windows.Forms.FlatStyle</value>
+          <value>Image,System.Drawing.Image</value>
+          <value>ImageIndex,System.Int32</value>
+          <value>ImageKey,System.String</value>
+          <value>ImageAlign,System.Drawing.ContentAlignment</value>
+          <value>TextAlign,System.Drawing.ContentAlignment</value>
+          <value>Text,System.String</value>
+          <value>UseCompatibleTextRendering,System.Boolean</value>
+          <value>UseMnemonic,System.Boolean</value>
+          <value>AccessibleDescription,System.String</value>
+          <value>AccessibleName,System.String</value>
+          <value>AccessibleRole,System.Windows.Forms.AccessibleRole</value>
+          <value>AllowDrop,System.Boolean</value>
+          <value>Anchor,System.Windows.Forms.AnchorStyles</value>
+          <value>BackColor,System.Drawing.Color</value>
+          <value>CausesValidation,System.Boolean</value>
+          <value>Dock,System.Windows.Forms.DockStyle</value>
+          <value>Enabled,System.Boolean</value>
+          <value>ForeColor,System.Drawing.Color</value>
+          <value>Location,System.Drawing.Point</value>
+          <value>Margin,System.Windows.Forms.Padding</value>
+          <value>MaximumSize,System.Drawing.Size</value>
+          <value>MinimumSize,System.Drawing.Size</value>
+          <value>RightToLeft,System.Windows.Forms.RightToLeft</value>
+          <value>Size,System.Drawing.Size</value>
+          <value>TabIndex,System.Int32</value>
+          <value>UseWaitCursor,System.Boolean</value>
+          <value>Visible,System.Boolean</value>
+          <value>Padding,System.Windows.Forms.Padding</value>
+        </Columns>
+        <Dictionary isRef="1" />
+        <Guid>37cac0c3bc0a47a88551d123eab7e01b</Guid>
+        <Name>FromDate</Name>
+      </FromDate>
+      <ToDate Ref="3" type="Stimulsoft.Report.Dictionary.StiBusinessObject" isKey="true">
+        <Alias>ToDate</Alias>
+        <BusinessObjects isList="true" count="0" />
+        <Category />
+        <Columns isList="true" count="32">
+          <value>AutoSize,System.Boolean</value>
+          <value>AutoEllipsis,System.Boolean</value>
+          <value>BorderStyle,System.Windows.Forms.BorderStyle</value>
+          <value>FlatStyle,System.Windows.Forms.FlatStyle</value>
+          <value>Image,System.Drawing.Image</value>
+          <value>ImageIndex,System.Int32</value>
+          <value>ImageKey,System.String</value>
+          <value>ImageAlign,System.Drawing.ContentAlignment</value>
+          <value>TextAlign,System.Drawing.ContentAlignment</value>
+          <value>Text,System.String</value>
+          <value>UseCompatibleTextRendering,System.Boolean</value>
+          <value>UseMnemonic,System.Boolean</value>
+          <value>AccessibleDescription,System.String</value>
+          <value>AccessibleName,System.String</value>
+          <value>AccessibleRole,System.Windows.Forms.AccessibleRole</value>
+          <value>AllowDrop,System.Boolean</value>
+          <value>Anchor,System.Windows.Forms.AnchorStyles</value>
+          <value>BackColor,System.Drawing.Color</value>
+          <value>CausesValidation,System.Boolean</value>
+          <value>Dock,System.Windows.Forms.DockStyle</value>
+          <value>Enabled,System.Boolean</value>
+          <value>ForeColor,System.Drawing.Color</value>
+          <value>Location,System.Drawing.Point</value>
+          <value>Margin,System.Windows.Forms.Padding</value>
+          <value>MaximumSize,System.Drawing.Size</value>
+          <value>MinimumSize,System.Drawing.Size</value>
+          <value>RightToLeft,System.Windows.Forms.RightToLeft</value>
+          <value>Size,System.Drawing.Size</value>
+          <value>TabIndex,System.Int32</value>
+          <value>UseWaitCursor,System.Boolean</value>
+          <value>Visible,System.Boolean</value>
+          <value>Padding,System.Windows.Forms.Padding</value>
+        </Columns>
+        <Dictionary isRef="1" />
+        <Guid>f4ffdd0acd534e3381391988587c341c</Guid>
+        <Name>ToDate</Name>
+      </ToDate>
+    </BusinessObjects>
+    <Databases isList="true" count="0" />
+    <DataSources isList="true" count="2">
+      <f Ref="4" type="DataTableSource" isKey="true">
+        <Alias>f</Alias>
+        <Columns isList="true" count="4">
+          <value>Number,System.Int32</value>
+          <value>Price,System.Double</value>
+          <value>Date,System.DateTime</value>
+          <value>Name,System.String</value>
+        </Columns>
+        <Dictionary isRef="1" />
+        <Name>f</Name>
+        <NameInSource>NewDataSet.f</NameInSource>
+      </f>
+      <f1 Ref="5" type="DataTableSource" isKey="true">
+        <Alias>f1</Alias>
+        <Columns isList="true" count="1">
+          <value>TotalCredit,System.Double</value>
+        </Columns>
+        <Dictionary isRef="1" />
+        <Name>f1</Name>
+        <NameInSource>NewDataSet.f1</NameInSource>
+      </f1>
+    </DataSources>
+    <Relations isList="true" count="0" />
+    <Report isRef="0" />
+    <Variables isList="true" count="0" />
+  </Dictionary>
+  <EngineVersion>EngineV1</EngineVersion>
+  <GlobalizationStrings isList="true" count="0" />
+  <MetaTags isList="true" count="0" />
+  <Pages isList="true" count="1">
+    <Page1 Ref="6" type="Page" isKey="true">
+      <Border>None;Black;2;Solid;False;4;Black</Border>
+      <Brush>Transparent</Brush>
+      <Components isList="true" count="1">
+        <DataBand1 Ref="7" type="DataBand" isKey="true">
+          <Brush>Transparent</Brush>
+          <ClientRectangle>0,0.2,7.49,0.4</ClientRectangle>
+          <Components isList="true" count="2">
+            <Text3 Ref="8" type="Text" isKey="true">
+              <Brush>Transparent</Brush>
+              <ClientRectangle>0,0,3.7,0.4</ClientRectangle>
+              <Conditions isList="true" count="0" />
+              <Font>Arial,20</Font>
+              <Guid>22a983bb66dc4d87b484ffbfad4ed0bb</Guid>
+              <Margins>0,0,0,0</Margins>
+              <Name>Text3</Name>
+              <Page isRef="6" />
+              <Parent isRef="7" />
+              <Text>{f.Price}</Text>
+              <TextBrush>Black</TextBrush>
+            </Text3>
+            <Text4 Ref="9" type="Text" isKey="true">
+              <Brush>Transparent</Brush>
+              <ClientRectangle>3.7,0,3.7,0.4</ClientRectangle>
+              <Conditions isList="true" count="0" />
+              <Font>Arial,20</Font>
+              <Guid>316cb645b79c482aa5903343c0b28bb8</Guid>
+              <Margins>0,0,0,0</Margins>
+              <Name>Text4</Name>
+              <Page isRef="6" />
+              <Parent isRef="7" />
+              <Text>{f.Date}</Text>
+              <TextBrush>Black</TextBrush>
+            </Text4>
+          </Components>
+          <Conditions isList="true" count="0" />
+          <DataRelationName isNull="true" />
+          <DataSourceName>f</DataSourceName>
+          <Filters isList="true" count="0" />
+          <Name>DataBand1</Name>
+          <Page isRef="6" />
+          <Parent isRef="6" />
+          <Sort isList="true" count="0" />
+        </DataBand1>
+      </Components>
+      <Conditions isList="true" count="0" />
+      <Guid>2727cc46742749a58e3e2978d00f0dd8</Guid>
+      <Margins>0.39,0.39,0.39,0.39</Margins>
+      <Name>Page1</Name>
+      <PageHeight>11.69</PageHeight>
+      <PageWidth>8.27</PageWidth>
+      <Report isRef="0" />
+      <Watermark Ref="10" type="Stimulsoft.Report.Components.StiWatermark" isKey="true">
+        <Font>Arial,100</Font>
+        <TextBrush>[50:0:0:0]</TextBrush>
+      </Watermark>
+    </Page1>
+  </Pages>
+  <PrinterSettings Ref="11" type="Stimulsoft.Report.Print.StiPrinterSettings" isKey="true" />
+  <ReferencedAssemblies isList="true" count="8">
+    <value>System.Dll</value>
+    <value>System.Drawing.Dll</value>
+    <value>System.Windows.Forms.Dll</value>
+    <value>System.Data.Dll</value>
+    <value>System.Xml.Dll</value>
+    <value>Stimulsoft.Controls.Dll</value>
+    <value>Stimulsoft.Base.Dll</value>
+    <value>Stimulsoft.Report.Dll</value>
+  </ReferencedAssemblies>
+  <ReportAlias>Report</ReportAlias>
+  <ReportChanged>2/14/2019 11:28:03 AM</ReportChanged>
+  <ReportCreated>4/13/2016 6:41:36 AM</ReportCreated>
+  <ReportFile>D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\bin\Debug\CustRep\RepPrint\Rep View Agent.mrt</ReportFile>
+  <ReportGuid>35b9c4d73bfc4c21b144c25b7fcb7177</ReportGuid>
+  <ReportName>Report</ReportName>
+  <ReportUnit>Inches</ReportUnit>
+  <ReportVersion>2015.2.0</ReportVersion>
+  <Script>using System;
+using System.Drawing;
+using System.Windows.Forms;
+using System.Data;
+using Stimulsoft.Controls;
+using Stimulsoft.Base.Drawing;
+using Stimulsoft.Report;
+using Stimulsoft.Report.Dialogs;
+using Stimulsoft.Report.Components;
+
+namespace Reports
+{
+    
+    public class Report : Stimulsoft.Report.StiReport
+    {
+        
+        public Report()
+        {
+            this.InitializeComponent();
+        }
+        #region StiReport Designer generated code - do not modify
+		#endregion StiReport Designer generated code - do not modify
+    }
+}
+</Script>
+  <ScriptLanguage>CSharp</ScriptLanguage>
+  <Styles isList="true" count="0" />
+</StiSerializer>

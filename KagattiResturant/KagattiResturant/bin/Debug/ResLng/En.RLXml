@@ -1,0 +1,338 @@
+<?xml version="1.0"?>
+<CLanguage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>en</Name>
+  <RightToLeft>false</RightToLeft>
+  <LngPath>C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\bin\Debug\ResLng\En.RLXml</LngPath>
+  <Rows>
+    <CRowLanguage>
+      <Name>Card</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name> Report</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Tools</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Options</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Change Name</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Expression</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>New</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Open</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Close</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Exit</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Receipts</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Item</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Total Sec</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Total Item</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Total Top</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Invoices</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Final</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Delivery</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Delivery Non</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Users</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Change Pass</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Section</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Employee</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Salary Invoces</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Employees</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Select Connection</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Number</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Price</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Date</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Name</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>FrmBase</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Option</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>File Creation</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>UpGradeDB</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>&amp;OK</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>The old database version should be updated</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>&amp;Cancel</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Salary_received</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Salary_Discount</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Salary_Plus</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Salary_Remaining</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>LoginName</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Total_Receipts</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Total_Invoices</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Total_Salary</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>you can't add zero quantity for product</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Ok</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Error</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Counts</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>single_price</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Total</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Name Is Empty</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Are you sure to delete the bill 4?</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Are you sure to delete the bill 1?</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Are you sure to delete the bill 2?</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Are you sure to delete the bill 9?</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Are you sure to delete the bill 8?</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Are you sure to delete the bill 12?</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Are you sure to delete the bill 7?</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Exception</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Title</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Cancel</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Defualt</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Search</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Fields Name</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Change File Name</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+  </Rows>
+</CLanguage>

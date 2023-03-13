@@ -1,0 +1,197 @@
+D:\c#\kagatti restaurant\KagattiResturant\KagattiHotel\bin\Debug\KagattiResturant.exe.config
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\bin\Debug\KagattiResturant.exe.config
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\bin\Debug\KagattiResturant.exe
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\bin\Debug\KagattiResturant.pdb
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.ControlGrid.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.FrmMain.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\GBase.FrmBase.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\GBase.Frm.Base.FrmBaseRep.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\GBase.FrmCard.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\GBase.Frm.Base.FrmRepView.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmCardInvoices.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepCharItem.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepCharTop.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepCharSec.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmCardItem.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmCardSection.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmCardUser.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\GBase.FrmChangePassword.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestFinal.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestInvoices.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestItem.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestAgent.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepViewFinal.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepViewItem.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepViewAgent.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\GBase.Frm.FrmAct.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.FrmBasee.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.FrmLogin.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.FrmWebActive.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Tool.FrmOptions.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.MainF.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Properties.Resources.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.csproj.GenerateResource.Cache
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.exe
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.pdb
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\bin\Debug\GControls.dll
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\bin\Debug\Stimulsoft.Base.dll
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\bin\Debug\Stimulsoft.Controls.dll
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\bin\Debug\Stimulsoft.Controls.Win.dll
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\bin\Debug\Stimulsoft.Database.dll
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\bin\Debug\Stimulsoft.Editor.dll
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\bin\Debug\Stimulsoft.Report.Check.dll
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\bin\Debug\Stimulsoft.Report.Compare.dll
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\bin\Debug\Stimulsoft.Report.Design.dll
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\bin\Debug\Stimulsoft.Report.dll
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\bin\Debug\Stimulsoft.Report.Helper.dll
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\bin\Debug\Stimulsoft.Report.Win.dll
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.BillType.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Cash.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestDelivery.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepViewDelivery.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmCardEmployee.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmCardEmpSalInv.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestEmp.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepViewEmp.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestDeliveryNon.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.csprojResolveAssemblyReference.cache
+C:\Users\Eng-Abdullah\Desktop\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\bin\Debug\KagattiResturant.exe.config
+C:\Users\Eng-Abdullah\Desktop\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.exe
+C:\Users\Eng-Abdullah\Desktop\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.pdb
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\bin\Debug\KagattiResturant.exe.config
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.exe
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.pdb
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.csprojResolveAssemblyReference.cache
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.BillType.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Cash.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.ControlGrid.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.FrmMain.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\GBase.FrmBase.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\GBase.Frm.Base.FrmBaseRep.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\GBase.FrmCard.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\GBase.Frm.Base.FrmRepView.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmCardInvoices.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmCardEmployee.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmCardEmpSalInv.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepCharItem.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepCharTop.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepCharSec.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmCardItem.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmCardSection.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmCardUser.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\GBase.FrmChangePassword.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestDeliveryNon.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestEmp.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestDelivery.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestFinal.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestInvoices.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestItem.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestAgent.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepViewEmp.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepViewDelivery.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepViewFinal.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepViewItem.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepViewAgent.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\GBase.Frm.FrmAct.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.FrmBasee.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.FrmLogin.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.FrmWebActive.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Tool.FrmOptions.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.MainF.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Properties.Resources.resources
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.csproj.GenerateResource.Cache
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\bin\Debug\KagattiResturant.exe
+E:\kagatti work\تجريب\kagatti restaurant\KagattiResturant\KagattiResturant\bin\Debug\KagattiResturant.pdb
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\bin\Debug\KagattiResturant.exe.config
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.exe
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.pdb
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\bin\Debug\KagattiResturant.exe
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\bin\Debug\KagattiResturant.pdb
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.BillType.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Cash.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.ControlGrid.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.FrmMain.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\GBase.FrmBase.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\GBase.Frm.Base.FrmBaseRep.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\GBase.FrmCard.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\GBase.Frm.Base.FrmRepView.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmCardInvoices.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmCardEmployee.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmCardEmpSalInv.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepCharItem.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepCharTop.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepCharSec.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmCardItem.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmCardSection.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmCardUser.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\GBase.FrmChangePassword.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestDeliveryNon.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestEmp.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestDelivery.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestFinal.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestInvoices.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestItem.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestAgent.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepViewEmp.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepViewDelivery.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepViewFinal.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepViewItem.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepViewAgent.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\GBase.Frm.FrmAct.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.FrmBasee.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.FrmLogin.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.FrmWebActive.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Tool.FrmOptions.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.MainF.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Properties.Resources.resources
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.csproj.GenerateResource.Cache
+E:\kagatti work\kagatti restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.csprojResolveAssemblyReference.cache
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\bin\Debug\KagattiResturant.exe.config
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\bin\Debug\KagattiResturant.exe
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\bin\Debug\KagattiResturant.pdb
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\bin\Debug\ADODB.dll
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.csproj.AssemblyReference.cache
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.csproj.SuggestedBindingRedirects.cache
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.exe.config
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.BillType.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Cash.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.ControlGrid.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.FrmMain.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\GBase.FrmBase.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\GBase.Frm.Base.FrmBaseRep.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\GBase.FrmCard.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\GBase.Frm.Base.FrmRepView.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmCardInvoices.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmCardEmployee.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmCardEmpSalInv.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepCharItem.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepCharTop.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepCharSec.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmCardItem.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmCardSection.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmCardUser.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\GBase.FrmChangePassword.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestDeliveryNon.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestEmp.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestDelivery.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestFinal.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestInvoices.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestItem.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepRestAgent.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepViewEmp.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepViewDelivery.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepViewFinal.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepViewItem.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Card.FrmRepViewAgent.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\GBase.Frm.FrmAct.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.FrmBasee.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.FrmLogin.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.FrmWebActive.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Frm.Tool.FrmOptions.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.MainF.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.Properties.Resources.resources
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.csproj.GenerateResource.cache
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.csproj.CoreCompileInputs.cache
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.csproj.CopyComplete
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.exe
+C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\obj\Debug\KagattiResturant.pdb

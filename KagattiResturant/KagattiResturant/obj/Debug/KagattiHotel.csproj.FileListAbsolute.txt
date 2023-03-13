@@ -1,0 +1,264 @@
+E:\KagattiHotel\SamaHotel\bin\Debug\KagattiHotel.exe.config
+E:\KagattiHotel\SamaHotel\bin\Debug\KagattiHotel.exe
+E:\KagattiHotel\SamaHotel\bin\Debug\KagattiHotel.pdb
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.csprojResolveAssemblyReference.cache
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.FrmMain.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\GBase.FrmBase.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\GBase.Frm.Base.FrmBaseRep.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\GBase.FrmCard.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\GBase.Frm.Base.FrmRepView.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\GBase.FrmChangePassword.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardType.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardInf.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmButtomRoom.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmButtonRoomDay.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmButtomRoomH.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardCheckOut.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardInvoice.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardRepayment.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardReNew.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCalculationRentContracts.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepHotelResRoom.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepHotelHostRoom.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepHotelPayment.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepHotelFollower.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepHotelAgent.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardHousting.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardCustomer.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardPayment.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardReservation.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardFloors.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardRooms.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardUser.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepViewResRoom.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepViewHostRoom.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepViewPayment.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepViewFollower.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepViewAgent.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\GBase.Frm.FrmAct.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.FrmBasee.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.FrmLogin.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.FrmWebActive.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Frm.Tool.FrmOptions.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.Properties.Resources.resources
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.csproj.GenerateResource.Cache
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.exe
+E:\KagattiHotel\SamaHotel\obj\Debug\KagattiHotel.pdb
+E:\KagattiHotel\KagattiHotel\bin\Debug\KagattiHotel.exe.config
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.exe
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.pdb
+E:\KagattiHotel\KagattiHotel\bin\Debug\KagattiHotel.exe
+E:\KagattiHotel\KagattiHotel\bin\Debug\KagattiHotel.pdb
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.FrmMain.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\GBase.FrmBase.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\GBase.Frm.Base.FrmBaseRep.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\GBase.FrmCard.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\GBase.Frm.Base.FrmRepView.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\GBase.FrmChangePassword.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardType.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardInf.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmButtomRoom.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmButtonRoomDay.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmButtomRoomH.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardCheckOut.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardInvoice.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardRepayment.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardReNew.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCalculationRentContracts.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepHotelResRoom.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepHotelHostRoom.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepHotelPayment.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepHotelFollower.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepHotelAgent.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardHousting.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardCustomer.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardPayment.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardReservation.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardFloors.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardRooms.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardUser.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepViewResRoom.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepViewHostRoom.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepViewPayment.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepViewFollower.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepViewAgent.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\GBase.Frm.FrmAct.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.FrmBasee.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.FrmLogin.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.FrmWebActive.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Tool.FrmOptions.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Properties.Resources.resources
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.csproj.GenerateResource.Cache
+E:\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.csprojResolveAssemblyReference.cache
+E:\KagattiHotel\KagattiHotel\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\KagattiHotel\KagattiHotel\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\KagattiHotel\KagattiHotel\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\KagattiHotel\KagattiHotel\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\KagattiHotel\KagattiHotel\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\KagattiHotel\KagattiHotel\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\KagattiHotel\KagattiHotel\bin\Debug\NuGet.Core.dll
+E:\KagattiHotel\KagattiHotel\bin\Debug\ADODB.dll
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\bin\Debug\KagattiHotel.exe.config
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.exe
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.pdb
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\bin\Debug\KagattiHotel.exe
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\bin\Debug\KagattiHotel.pdb
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.FrmMain.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\GBase.FrmBase.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\GBase.Frm.Base.FrmBaseRep.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\GBase.FrmCard.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\GBase.Frm.Base.FrmRepView.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\GBase.FrmChangePassword.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardType.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardInf.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmButtomRoom.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmButtonRoomDay.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmButtomRoomH.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardCheckOut.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardInvoice.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardRepayment.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardReNew.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCalculationRentContracts.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepHotelResRoom.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepHotelHostRoom.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepHotelPayment.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepHotelFollower.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepHotelAgent.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardHousting.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardCustomer.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardPayment.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardReservation.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardFloors.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardRooms.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardUser.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepViewResRoom.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepViewHostRoom.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepViewPayment.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepViewFollower.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepViewAgent.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\GBase.Frm.FrmAct.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.FrmBasee.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.FrmLogin.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.FrmWebActive.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Tool.FrmOptions.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Properties.Resources.resources
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.csproj.GenerateResource.Cache
+C:\Users\Kagatti\Desktop\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.csprojResolveAssemblyReference.cache
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\bin\Debug\KagattiHotel.exe.config
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.exe
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.pdb
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\bin\Debug\KagattiHotel.exe
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\bin\Debug\KagattiHotel.pdb
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.csprojResolveAssemblyReference.cache
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.FrmMain.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.FrmMaina.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\GBase.FrmBase.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\GBase.Frm.Base.FrmBaseRep.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\GBase.FrmCard.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\GBase.Frm.Base.FrmRepView.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\GBase.FrmChangePassword.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardType.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardInf.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmButtomRoom.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmButtonRoomDay.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmButtomRoomH.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardCheckOut.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardInvoice.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardRepayment.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardReNew.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCalculationRentContracts.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepHotelResRoom.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepHotelHostRoom.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepHotelPayment.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepHotelFollower.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepHotelAgent.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardHousting.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardCustomer.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardPayment.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardReservation.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardFloors.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardRooms.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardUser.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepViewResRoom.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepViewHostRoom.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepViewPayment.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepViewFollower.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepViewAgent.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\GBase.Frm.FrmAct.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.FrmBasee.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.FrmLogin.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.FrmWebActive.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Tool.FrmOptions.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Properties.Resources.resources
+E:\kagatti work\kagatti hotel\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.csproj.GenerateResource.Cache
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\bin\Debug\KagattiHotel.exe.config
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.exe
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.pdb
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.FrmMain.resources
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\GBase.FrmBase.resources
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\GBase.Frm.Base.FrmBaseRep.resources
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\GBase.FrmCard.resources
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\GBase.Frm.Base.FrmRepView.resources
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardUser.resources
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\GBase.FrmChangePassword.resources
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\GBase.Frm.FrmAct.resources
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.FrmBasee.resources
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.FrmLogin.resources
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.FrmWebActive.resources
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Tool.FrmOptions.resources
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Properties.Resources.resources
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.csproj.GenerateResource.Cache
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\bin\Debug\KagattiHotel.exe
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\bin\Debug\KagattiHotel.pdb
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.MainF.resources
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardSection.resources
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardItem.resources
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.ControlGrid.resources
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepRestAgent.resources
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepViewAgent.resources
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepRestItem.resources
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepViewItem.resources
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepCharSec.resources
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepCharItem.resources
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepCharTop.resources
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardInvoices.resources
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.csprojResolveAssemblyReference.cache
+E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepRestInvoices.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\bin\Debug\KagattiHotel.exe.config
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.exe
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.pdb
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\bin\Debug\KagattiHotel.exe
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\bin\Debug\KagattiHotel.pdb
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.csprojResolveAssemblyReference.cache
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.ControlGrid.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.FrmMain.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\GBase.FrmBase.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\GBase.Frm.Base.FrmBaseRep.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\GBase.FrmCard.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\GBase.Frm.Base.FrmRepView.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardInvoices.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepCharItem.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepCharTop.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepCharSec.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardItem.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardSection.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmCardUser.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\GBase.FrmChangePassword.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepRestInvoices.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepRestItem.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepRestAgent.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepViewItem.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepViewAgent.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\GBase.Frm.FrmAct.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.FrmBasee.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.FrmLogin.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.FrmWebActive.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Tool.FrmOptions.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.MainF.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Properties.Resources.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.csproj.GenerateResource.Cache
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepRestFinal.resources
+D:\c#\kagatti restaurant\KagattiHotel\KagattiHotel\obj\Debug\KagattiHotel.Frm.Card.FrmRepViewFinal.resources
+D:\c#\kagatti restaurant\KagattiResturant\KagattiHotel\bin\Debug\KagattiHotel.exe.config
+D:\c#\kagatti restaurant\KagattiResturant\KagattiHotel\obj\Debug\KagattiHotel.exe
+D:\c#\kagatti restaurant\KagattiResturant\KagattiHotel\obj\Debug\KagattiHotel.pdb

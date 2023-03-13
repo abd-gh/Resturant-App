@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<GridSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FirstColor>-1</FirstColor>
+  <SecoundColor>-8355712</SecoundColor>
+  <SelectionBackColor>-16746281</SelectionBackColor>
+  <AllowUserToOrderColumns>false</AllowUserToOrderColumns>
+  <AllowUserToResizeColumns>false</AllowUserToResizeColumns>
+  <DefaultCellStyleFont>Tahoma, 11pt</DefaultCellStyleFont>
+  <ColumnsSetting>
+    <GridColumnsSetting>
+      <Name>Name</Name>
+      <DisplayIndex>0</DisplayIndex>
+      <Width>103</Width>
+      <Visible>true</Visible>
+      <HeaderText>Name</HeaderText>
+      <Resizable>NotSet</Resizable>
+    </GridColumnsSetting>
+    <GridColumnsSetting>
+      <Name>Del</Name>
+      <DisplayIndex>1</DisplayIndex>
+      <Width>57</Width>
+      <Visible>true</Visible>
+      <HeaderText>Del</HeaderText>
+      <Resizable>NotSet</Resizable>
+    </GridColumnsSetting>
+    <GridColumnsSetting>
+      <Name>Design Rep</Name>
+      <DisplayIndex>2</DisplayIndex>
+      <Width>57</Width>
+      <Visible>true</Visible>
+      <HeaderText>Design Rep</HeaderText>
+      <Resizable>NotSet</Resizable>
+    </GridColumnsSetting>
+    <GridColumnsSetting>
+      <Name>New</Name>
+      <DisplayIndex>3</DisplayIndex>
+      <Width>57</Width>
+      <Visible>true</Visible>
+      <HeaderText>New</HeaderText>
+      <Resizable>NotSet</Resizable>
+    </GridColumnsSetting>
+    <GridColumnsSetting>
+      <Name>Open</Name>
+      <DisplayIndex>4</DisplayIndex>
+      <Width>57</Width>
+      <Visible>true</Visible>
+      <HeaderText>Open</HeaderText>
+      <Resizable>NotSet</Resizable>
+    </GridColumnsSetting>
+    <GridColumnsSetting>
+      <Name>Print Rep</Name>
+      <DisplayIndex>5</DisplayIndex>
+      <Width>56</Width>
+      <Visible>true</Visible>
+      <HeaderText>Print Rep</HeaderText>
+      <Resizable>NotSet</Resizable>
+    </GridColumnsSetting>
+    <GridColumnsSetting>
+      <Name>Save</Name>
+      <DisplayIndex>6</DisplayIndex>
+      <Width>57</Width>
+      <Visible>true</Visible>
+      <HeaderText>Save</HeaderText>
+      <Resizable>NotSet</Resizable>
+    </GridColumnsSetting>
+    <GridColumnsSetting>
+      <Name>Search</Name>
+      <DisplayIndex>7</DisplayIndex>
+      <Width>57</Width>
+      <Visible>true</Visible>
+      <HeaderText>Search</HeaderText>
+      <Resizable>NotSet</Resizable>
+    </GridColumnsSetting>
+    <GridColumnsSetting>
+      <Name>Show Rep</Name>
+      <DisplayIndex>8</DisplayIndex>
+      <Width>57</Width>
+      <Visible>true</Visible>
+      <HeaderText>Show Rep</HeaderText>
+      <Resizable>NotSet</Resizable>
+    </GridColumnsSetting>
+  </ColumnsSetting>
+</GridSetting>

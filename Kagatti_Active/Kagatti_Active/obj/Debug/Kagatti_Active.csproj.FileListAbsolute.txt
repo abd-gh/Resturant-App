@@ -1,0 +1,27 @@
+c:\users\kagatti\documents\visual studio 2013\Projects\Kagatti_Active\Kagatti_Active\bin\Debug\Kagatti_Active.exe.config
+C:\Users\Kagatti\Documents\Visual Studio 2013\Projects\Kagatti_Active\Kagatti_Active\bin\Debug\Kagatti_Active.exe
+C:\Users\Kagatti\Documents\Visual Studio 2013\Projects\Kagatti_Active\Kagatti_Active\bin\Debug\Kagatti_Active.pdb
+C:\Users\Kagatti\Documents\Visual Studio 2013\Projects\Kagatti_Active\Kagatti_Active\obj\Debug\Kagatti_Active.csprojResolveAssemblyReference.cache
+C:\Users\Kagatti\Documents\Visual Studio 2013\Projects\Kagatti_Active\Kagatti_Active\obj\Debug\Kagatti_Active.Form1.resources
+C:\Users\Kagatti\Documents\Visual Studio 2013\Projects\Kagatti_Active\Kagatti_Active\obj\Debug\Kagatti_Active.Properties.Resources.resources
+C:\Users\Kagatti\Documents\Visual Studio 2013\Projects\Kagatti_Active\Kagatti_Active\obj\Debug\Kagatti_Active.csproj.GenerateResource.Cache
+C:\Users\Kagatti\Documents\Visual Studio 2013\Projects\Kagatti_Active\Kagatti_Active\obj\Debug\Kagatti_Active.exe
+C:\Users\Kagatti\Documents\Visual Studio 2013\Projects\Kagatti_Active\Kagatti_Active\obj\Debug\Kagatti_Active.pdb
+C:\Users\Kagatti\Desktop\hotel\Kagatti_Active\Kagatti_Active\bin\Debug\Kagatti_Active.exe.config
+C:\Users\Kagatti\Desktop\hotel\Kagatti_Active\Kagatti_Active\obj\Debug\Kagatti_Active.exe
+C:\Users\Kagatti\Desktop\hotel\Kagatti_Active\Kagatti_Active\obj\Debug\Kagatti_Active.pdb
+C:\Users\Kagatti\Desktop\hotel\Kagatti_Active\Kagatti_Active\bin\Debug\Kagatti_Active.exe
+C:\Users\Kagatti\Desktop\hotel\Kagatti_Active\Kagatti_Active\bin\Debug\Kagatti_Active.pdb
+C:\Users\Kagatti\Desktop\hotel\Kagatti_Active\Kagatti_Active\obj\Debug\Kagatti_Active.csprojResolveAssemblyReference.cache
+C:\Users\Kagatti\Desktop\hotel\Kagatti_Active\Kagatti_Active\obj\Debug\Kagatti_Active.Form1.resources
+C:\Users\Kagatti\Desktop\hotel\Kagatti_Active\Kagatti_Active\obj\Debug\Kagatti_Active.Properties.Resources.resources
+C:\Users\Kagatti\Desktop\hotel\Kagatti_Active\Kagatti_Active\obj\Debug\Kagatti_Active.csproj.GenerateResource.Cache
+D:\c#\kagatti restaurant\Kagatti_Active\Kagatti_Active\bin\Debug\Kagatti_Active.exe.config
+D:\c#\kagatti restaurant\Kagatti_Active\Kagatti_Active\obj\Debug\Kagatti_Active.exe
+D:\c#\kagatti restaurant\Kagatti_Active\Kagatti_Active\obj\Debug\Kagatti_Active.pdb
+D:\c#\kagatti restaurant\Kagatti_Active\Kagatti_Active\bin\Debug\Kagatti_Active.exe
+D:\c#\kagatti restaurant\Kagatti_Active\Kagatti_Active\bin\Debug\Kagatti_Active.pdb
+D:\c#\kagatti restaurant\Kagatti_Active\Kagatti_Active\obj\Debug\Kagatti_Active.csprojResolveAssemblyReference.cache
+D:\c#\kagatti restaurant\Kagatti_Active\Kagatti_Active\obj\Debug\Kagatti_Active.Form1.resources
+D:\c#\kagatti restaurant\Kagatti_Active\Kagatti_Active\obj\Debug\Kagatti_Active.Properties.Resources.resources
+D:\c#\kagatti restaurant\Kagatti_Active\Kagatti_Active\obj\Debug\Kagatti_Active.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<CLanguage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>en</Name>
+  <RightToLeft>false</RightToLeft>
+  <LngPath>E:\kagatti work\kagatti restaurant\KagattiHotel\KagattiHotel\bin\Debug\ResLng\.RLXml</LngPath>
+  <Rows>
+   
+  </Rows>
+</CLanguage>

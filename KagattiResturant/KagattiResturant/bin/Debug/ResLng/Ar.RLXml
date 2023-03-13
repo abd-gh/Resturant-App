@@ -1,0 +1,658 @@
+<?xml version="1.0"?>
+<CLanguage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>en</Name>
+  <RightToLeft>false</RightToLeft>
+  <LngPath>C:\projects\WPF\WPF for restaurant\KagattiResturant\KagattiResturant\bin\Debug\ResLng\Ar.RLXml</LngPath>
+  <Rows>
+    <CRowLanguage>
+      <Name>Card</Name>
+      <Value>الواجهات</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name> Report</Name>
+      <Value>التقارير</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Tools</Name>
+      <Value>الادوات</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Options</Name>
+      <Value>الخيارات</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Change Name</Name>
+      <Value>تغير الاسم</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Expression</Name>
+      <Value>المترجم</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>New</Name>
+      <Value>جديد</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Open</Name>
+      <Value>افتح</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Close</Name>
+      <Value>اغلق</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Exit</Name>
+      <Value>خروج</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Receipts</Name>
+      <Value>المبالغ المستلمة</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Item</Name>
+      <Value>العنصر</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Total Sec</Name>
+      <Value>احصائيات الاقسام</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Total Item</Name>
+      <Value>احصائيات العناصر</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Total Top</Name>
+      <Value>الأكثر مبيعاً</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Invoices</Name>
+      <Value>الفواتير</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Final</Name>
+      <Value>النهائي</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Delivery</Name>
+      <Value>النقل</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Users</Name>
+      <Value>المستخدمين</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Change Pass</Name>
+      <Value>تغيير كلمة السر</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Section</Name>
+      <Value>قسم</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Select Connection</Name>
+      <Value>خيار التصال</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Cancel</Name>
+      <Value>الغاء</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>OK</Name>
+      <Value>قبول</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Please enter UserName And password to open file</Name>
+      <Value>الرجاء ادخال اسم المستخدم</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Password</Name>
+      <Value>كلمة المرور</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Log In</Name>
+      <Value>الدخول</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Defualt</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Search</Name>
+      <Value>بحث</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Fields Name</Name>
+      <Value>اسم الحقل</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Delete</Name>
+      <Value>امسح</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Design</Name>
+      <Value>صمم</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Print</Name>
+      <Value>اطبع</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Save</Name>
+      <Value>حفظ</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Show</Name>
+      <Value>عرض</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Title</Name>
+      <Value>العنوان</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Open Drawer</Name>
+      <Value>فتح الدرج</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Pay</Name>
+      <Value>ادفع</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Delete Bill</Name>
+      <Value>حذف فاتورة</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Zero Num</Name>
+      <Value>الرقم صفر</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Clear</Name>
+      <Value>مسح</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Do you Close Programm??</Name>
+      <Value>هل اغلقت البرنامج</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Name </Name>
+      <Value>الاسم</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Name</Name>
+      <Value>الاسم</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Price</Name>
+      <Value>السعر</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>FrmBase</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Employee</Name>
+      <Value>العاملين</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Monthly Salar</Name>
+      <Value>الدخل الشهري </Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>&amp;OK</Name>
+      <Value>والقبول</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Salary</Name>
+      <Value>المرتب</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Salary Invoces</Name>
+      <Value>فواتير المرتب</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Employee Invoces</Name>
+      <Value>فواتير العاملين</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Number</Name>
+      <Value>الرقم</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Date</Name>
+      <Value>التايخ</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>User</Name>
+      <Value>المستخدم</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>From Date</Name>
+      <Value>من تاريخ</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>To Date</Name>
+      <Value>إلى تااريخ</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Agent Report</Name>
+      <Value>تقرير الوكيل</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Employees</Name>
+      <Value>العاملين</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Salary_received</Name>
+      <Value>المرتب المستقبل</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Salary_Discount</Name>
+      <Value>المرتب المخصوم</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Salary_Plus</Name>
+      <Value>المرتب الاضافي</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Salary_Remaining</Name>
+      <Value>المرتب المتبقي</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>LoginName</Name>
+      <Value>اسم تسجيل الدخول</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Total_Receipts</Name>
+      <Value>مجموع المبالغ المستلمة</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Total_Invoices</Name>
+      <Value>مجموع الفواتير</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Total_Salary</Name>
+      <Value>مجموع المرتبات</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Delivery Non</Name>
+      <Value>غير المنقولات</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>FrmRepCharSec</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>FrmRepCharItem</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Counts</Name>
+      <Value>الحسابات</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>single_price</Name>
+      <Value>السعر الفردي</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Total</Name>
+      <Value>المجموع</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Quantity</Name>
+      <Value>الكمية</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Singal Price</Name>
+      <Value>السعر الفردي</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Total Price</Name>
+      <Value>السعر الكلي</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Tax</Name>
+      <Value>الضرائب</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>IS Admin</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Base Info</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Rep Security</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Card Security</Name>
+      <Value>امان البطاقة</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Command Security</Name>
+      <Value>امان الامر</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>New Password</Name>
+      <Value>كلمة المرور الجديدة</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Old Password</Name>
+      <Value>كلمة المرور القديمة</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Conform Password</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Notes</Name>
+      <Value>ملاحظات</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Phone</Name>
+      <Value>الهاتف</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Discount</Name>
+      <Value>الخصم</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Plus</Name>
+      <Value>الزيادة</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>received</Name>
+      <Value>المستقبلة</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Remaining</Name>
+      <Value>المتبقية</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Language</Name>
+      <Value>اللغة</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Style</Name>
+      <Value>الاسلوب</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>BackUp</Name>
+      <Value>الاسترجاع</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Activation</Name>
+      <Value>التنشيط</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Print design</Name>
+      <Value>تصميم الطباعة</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Counter</Name>
+      <Value>الحاسب</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Company Name</Name>
+      <Value>اسم الشركة</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Printer</Name>
+      <Value>الطابعة</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Base</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Hotel Option</Name>
+      <Value>خيارات الفندق</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Soft Phone</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Option</Name>
+      <Value>الخيارات</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Change File Name</Name>
+      <Value>تغير اسم الملف</Value>
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>بطاقات</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>الغاء</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>اسم الشركة</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>تقارير</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>ادوات</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>خيارات</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>تغير الاسم</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>التعبير</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>جديد</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>افتح</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>اغلق</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>خروج</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>المبالغ المستلمة او الايصالات</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>الفواتير</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>النهائي</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>النقل</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>غير المنقولات</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>المستخدمين</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>تمرير التغيير</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>قسم</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>العاملين</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>فواتير المرتب</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Bill design</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Active Printer 2</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>Printer Design</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+    <CRowLanguage>
+      <Name>E_Bill design</Name>
+      <Value />
+      <Comment />
+    </CRowLanguage>
+  </Rows>
+</CLanguage>
