@@ -81,4 +81,32 @@ Managing the employees' salaries process, where the employee can receive his sal
 ## Tools
 Here you can translate your application to another language, and adjust the setting such as tax and get database Backup
 
+----
+## Report
+All reports enable you to specify the date period that you want to know the results of, and you can select a specific user, if you do not specify a specific user, the report will be for all users
+
+### Receipts:
+To get sales of meals at the point of sale
+
+-----
+
+### Item
+To get sales of special item at the point of sale
+
+----
+
+### Total Section
+To get a graph containing sales statistics between all sections
+
+----
+
+### Total Item
+To get a graph containing sales statistics between all item for specific section
+
+----
+
+### Total Top
+To get a graph containing sales statistics between all items in the restaurant
+
+-----
 
