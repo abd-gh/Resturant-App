@@ -27,4 +27,8 @@ Project is created with:
 ## How-To run
 - Install SQL Server Management Studio (SSMS) and create Database
 - Run "KagattiRestaurant" Application in "Debug" folder
--
+- Click "New" to connect to your database <img src="./Screenshots/click_on_new.png" width="900" height="400">
+
+- You have to enter "server name" and select "authentication" after that click "test" then you can select your database you want to use <img src="./Screenshots/Sql information.png" width="900" height="400">
+ 
+ 
