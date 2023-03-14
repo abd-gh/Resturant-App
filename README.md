@@ -110,3 +110,12 @@ To get a graph containing sales statistics between all items in the restaurant
 
 -----
 
+### Invoices
+to get all the Invoices that done between two specific date
+
+----
+### Final
+For the final result of the restaurant, profit or loss , with the current balance
+
+----
+### 
