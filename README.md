@@ -128,4 +128,5 @@ To get all sales sold at the point of sale via the delivery service
 ----
 ### Delivery Non
 To get all sales that were sold at the point of sale via the delivery service but were not completed for some reason
+![Animation](https://user-images.githubusercontent.com/33486027/225032965-4a21bc2a-f50d-4a9f-9bf6-54d02329214c.gif)
 
