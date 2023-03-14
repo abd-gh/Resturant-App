@@ -36,6 +36,7 @@ Project is created with:
 
 - For first time you will create User Admin to mange the application <img src="./Screenshots/create_Username.png" width="900" height="400">
  
+ ## Card
  - The main interface of the application includes Cards, Reports, and Tools. At the bottom information about the database and the current user</br><img src="./Screenshots/mainform.png" width="900" height="400">
 
 - For every card ther are CRUD operations "create, read, update and delete". 
@@ -66,3 +67,18 @@ To manage all employees working in the restaurant
 ----
 ### Salary Invoices
 Managing the employees' salaries process, where the employee can receive his salary in installments and can be given salary increases or deductions
+
+<img src="./Screenshots/User-form.png" width="900" height="400">
+<img src="./Screenshots/Change-Password.png" width="900" height="400">
+<img src="./Screenshots/Section.png" width="900" height="400">
+<img src="./Screenshots/Item.png" width="900" height="400">
+<img src="./Screenshots/Invoices.png" width="900" height="400">
+<img src="./Screenshots/Employee.png" width="900" height="400">
+<img src="./Screenshots/Salary.png" width="900" height="400">
+
+----
+
+## Tools
+Here you can translate your application to another language, and adjust the setting such as tax and get database Backup
+
+
