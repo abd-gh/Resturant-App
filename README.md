@@ -34,6 +34,35 @@ Project is created with:
 
 - Here you have to select the correct database and click OK to create all tables in the selected database <img src="./Screenshots/open DB.png" width="900" height="400"><img src="./Screenshots/Create_Tables.png" width="900" height="400">
 
-- For first time you will create User Admin to mange the application <img src="./Screenshots/create_Username.png" width="900" height="400"
+- For first time you will create User Admin to mange the application <img src="./Screenshots/create_Username.png" width="900" height="400">
  
- 
+ - The main interface of the application includes Cards, Reports, and Tools. At the bottom information about the database and the current user</br><img src="./Screenshots/mainform.png" width="900" height="400">
+
+- For every card ther are CRUD operations "create, read, update and delete". 
+### Users
+To manage all application users and their permissions
+
+----
+
+### Change Password
+To Change the current user's password
+
+ ----
+### Section
+To manage all food categories in the restaurant and choose the kitchen printer, "Is Product" means whether this category have quantity and you must manage
+
+----
+### Item
+Managing the food item and determining the category to which it belongs, the price and the quantity, if any
+
+----
+### Invoices
+To manage all purchase invoices to include in the reports
+
+----
+### Employee
+To manage all employees working in the restaurant
+
+----
+### Salary Invoices
+Managing the employees' salaries process, where the employee can receive his salary in installments and can be given salary increases or deductions
