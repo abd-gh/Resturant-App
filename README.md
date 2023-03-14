@@ -118,4 +118,14 @@ to get all the Invoices that done between two specific date
 For the final result of the restaurant, profit or loss , with the current balance
 
 ----
-### 
+### Employees
+To obtain all information about the employee's salary, and to review all financial operations performed
+
+----
+### Delivery
+To get all sales sold at the point of sale via the delivery service
+
+----
+### Delivery Non
+To get all sales that were sold at the point of sale via the delivery service but were not completed for some reason
+
