@@ -130,3 +130,7 @@ To get all sales sold at the point of sale via the delivery service
 To get all sales that were sold at the point of sale via the delivery service but were not completed for some reason
 ![Animation](https://user-images.githubusercontent.com/33486027/225032965-4a21bc2a-f50d-4a9f-9bf6-54d02329214c.gif)
 
+----
+ ## Point Of Sale
+ This window provides a sale service for the restaurant’s customers. The employee who logged in can view all the departments in the restaurant, and by clicking on the name of the department, all the items of this department it are displayed, and by clicking on it, it is added to the invoice list with the feature of adding or decreasing the quantity or delete it with a review of the single price, the total price, and the amount of tax. When you finish adding the items that the customer wants, you must click on the Pay button. Two options will be displayed for the type of order, either delivery or direct. By choosing direct, the invoice will be printed and money will be received. Either delivery means no Receiving the money, and the order will be added to the delivery role. When the order is delivered, the employee will have to click on the order button and press the receive button, or he can delete it.
+If the employee's authority is a manager, he can also delete an old order for a reason, with notes added about the reason.
